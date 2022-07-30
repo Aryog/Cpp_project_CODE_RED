@@ -161,7 +161,7 @@ public:
                             {
                                 if (j == 7)
                                 {
-                                    printf("|     %d     |", calender[i][j - l]);
+                                    printf("|     .%d    |", calender[i][j - l]);
                                 }
                                 else
                                 {
@@ -172,7 +172,7 @@ public:
                             {
                                 if (j == 7)
                                 {
-                                    printf("|     %d    |", calender[i][j - l]);
+                                    printf("|    . %d   |", calender[i][j - l]);
                                 }
                                 else
                                 {
